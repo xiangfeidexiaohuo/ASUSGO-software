@@ -9,17 +9,17 @@
 
 #### 🔥 热门软件
 
-* [DDNSTO远程控制]() - DDNSTO内网穿透，可以外网远程你的路由器。 [视频解说](https://www.bilibili.com/video/BV1SFLNzQEav?spm_id_from=333.788.videopod.sections&vd_source=81ad6d94551d839d6d0c37bcc26597f3) 
-* [易有云]() - 易有云提供文件的外网访问，相册备份，文件同步，异地组网功能。 [视频解说](https://www.bilibili.com/video/BV1UBCmYeErr/?spm_id_from=333.337.search-card.all.click&vd_source=81ad6d94551d839d6d0c37bcc26597f3) 
-* [浮动网关]() - 网络品质提升的插件，旁路由最佳助手。 [最佳实践](https://www.bilibili.com/video/BV1yT7LzyEqb/?spm_id_from=333.1387.homepage.video_card.click&vd_source=81ad6d94551d839d6d0c37bcc26597f3)
+* [DDNSTO远程控制](https://www.bilibili.com/video/BV1SFLNzQEav?spm_id_from=333.788.videopod.sections&vd_source=81ad6d94551d839d6d0c37bcc26597f3) - DDNSTO内网穿透，可以外网远程你的路由器。
+* [易有云](https://www.bilibili.com/video/BV1UBCmYeErr/?spm_id_from=333.337.search-card.all.click&vd_source=81ad6d94551d839d6d0c37bcc26597f3) - 易有云提供文件的外网访问，相册备份，文件同步，异地组网功能。
+* [浮动网关]((https://www.bilibili.com/video/BV1yT7LzyEqb/?spm_id_from=333.1387.homepage.video_card.click&vd_source=81ad6d94551d839d6d0c37bcc26597f3) - 网络品质提升的插件，旁路由最佳助手。 
 * [Aria2]() - 轻量级的跨平台下载工具，支持HTTP/HTTPS、FTP、SFTP、BitTorrent等协议，支持多线程下载，占用cpu、内存资源少。 
-* [Cloud Drive 2]() - 强大的多云盘管理工具，为用户提供包含云盘本地挂载的一站式的多云盘解决方案。 [玩法教学](https://www.bilibili.com/video/BV1o1LPzwEBH?spm_id_from=333.788.videopod.sections&vd_source=81ad6d94551d839d6d0c37bcc26597f3) 
-* [Alist]() - 支持多种存储的文件列表程序，使用 Gin 和 Solidjs。[轻松部署](https://www.bilibili.com/video/BV1YGdfYNEw9?spm_id_from=333.788.videopod.sections&vd_source=81ad6d94551d839d6d0c37bcc26597f3) 
+* [Cloud Drive 2](https://www.bilibili.com/video/BV1o1LPzwEBH?spm_id_from=333.788.videopod.sections&vd_source=81ad6d94551d839d6d0c37bcc26597f3) - 强大的多云盘管理工具，为用户提供包含云盘本地挂载的一站式的多云盘解决方案。
+* [Alist](https://www.bilibili.com/video/BV1YGdfYNEw9?spm_id_from=333.788.videopod.sections&vd_source=81ad6d94551d839d6d0c37bcc26597f3) - 支持多种存储的文件列表程序，使用 Gin 和 Solidjs。
 * [RT-AX86U 160MHz]() - 让AX86U稳定实现160MHz频宽。 
 * [wifi boost]() - 以极大的增强路由器wifi的发射功率，增强信号覆盖范围。 
 * [ROG工具箱]() - 辅助工具，用以实现一些简单的功能（查看温度、频率、发射功率等）的工具箱。 
-* [虚拟内存]() - 创建虚拟内存，让路由运行更顺畅。 [视频讲解](https://www.bilibili.com/video/BV1dN411Y76d/?spm_id_from=333.1387.upload.video_card.click&vd_source=81ad6d94551d839d6d0c37bcc26597f3) 
-* [USB2JFFS]() - 轻松用U盘挂载系统JFFS分区。  [视频讲解](https://www.bilibili.com/video/BV1dN411Y76d/?spm_id_from=333.1387.upload.video_card.click&vd_source=81ad6d94551d839d6d0c37bcc26597f3)
+* [虚拟内存](https://www.bilibili.com/video/BV1dN411Y76d/?spm_id_from=333.1387.upload.video_card.click&vd_source=81ad6d94551d839d6d0c37bcc26597f3) - 创建虚拟内存，让路由运行更顺畅。
+* [USB2JFFS](https://www.bilibili.com/video/BV1dN411Y76d/?spm_id_from=333.1387.upload.video_card.click&vd_source=81ad6d94551d839d6d0c37bcc26597f3) - 轻松用U盘挂载系统JFFS分区。
 
 ---
 
